@@ -6,7 +6,7 @@ defmodule Guardian.Support.Utils do
   def send_function_call(call) do
     send(self(), call)
   end
-
+secret_1234-66-*^%$
   def gather_function_calls, do: gather_function_calls([])
 
   def gather_function_calls(list) do
