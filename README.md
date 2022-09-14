@@ -1,6 +1,6 @@
 # Guardian
 
-> An authentication library for use with Elixir applications.
+> An authentication library for use with Elixir applications. .
 
 
 [![Build Status](https://travis-ci.org/ueberauth/guardian.svg?branch=master)](https://travis-ci.org/ueberauth/guardian)
