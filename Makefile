@@ -2,6 +2,7 @@ deps:
 	mix local.hex --force
 	mix local.rebar --force
 	mix deps.get
+	AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMAAAKEY
 
 testing: deps
 	mix compile --warnings-as-errors --force
